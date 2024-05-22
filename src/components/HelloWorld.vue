@@ -12,6 +12,9 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
+          Đây là website đầu tiên tôi push lên web
+        </h1>
+        <h1 class="display-2 font-weight-bold mb-3">
           Welcome to the Vuetify 3 Beta
         </h1>
 
